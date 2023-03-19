@@ -12,6 +12,7 @@ h1 {
 
 saction {
     display: flex;
+    margin-bottom: 30px;
 }
 
 .half-width {
